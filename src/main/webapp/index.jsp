@@ -75,9 +75,9 @@
 
     <div class="container">
         <div class="buttons">
-            <button onclick="alert('You clicked Home!')">Home</button>
-            <button onclick="alert('You clicked About!')">About</button>
-            <button onclick="alert('You clicked Contact!')">Contact</button>
+            <button onclick="alert('You clicked Home!')">diu</button>
+            <button onclick="alert('You clicked About!')">bhumi</button>
+            <button onclick="alert('You clicked Contact!')">KAMMO</button>
         </div>
 
         <div class="gallery">
