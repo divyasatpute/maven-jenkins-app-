@@ -82,8 +82,8 @@
 
         <div class="gallery">
             <img src="C:\Users\Rinku\Downloads\Grey White Modern Book Typography Mindset Youtube Thumbnail.png"alt="Image 1">
-            <img src="https://via.placeholder.com/300x200.png?text=Image+2" alt="Image 2">
-            <img src="https://via.placeholder.com/300x200.png?text=Image+3" alt="Image 3">
+            <img src="C:\Users\Rinku\Downloads\Grey White Modern Book Typography Mindset Youtube Thumbnail.png"alt="Image 2">
+            <img src="C:\Users\Rinku\Downloads\Grey White Modern Book Typography Mindset Youtube Thumbnail.png"alt="Image 3">
         </div>
     </div>
 
