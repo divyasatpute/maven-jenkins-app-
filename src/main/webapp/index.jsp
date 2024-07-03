@@ -81,7 +81,7 @@
         </div>
 
         <div class="gallery">
-            <img src="C:\Users\Rinku\Downloads\Grey White Modern Book Typography Mindset Youtube Thumbnail.png"alt="Image 1">
+            <img src="C:\Users\Rinku\Desktop\3.jpg"alt="Image 1">
             <img src="C:\Users\Rinku\Downloads\Grey White Modern Book Typography Mindset Youtube Thumbnail.png"alt="Image 2">
             <img src="C:\Users\Rinku\Downloads\Grey White Modern Book Typography Mindset Youtube Thumbnail.png"alt="Image 3">
         </div>
