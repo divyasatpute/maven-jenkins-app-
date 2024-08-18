@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Divya Vasant Satpute Blog</title>
+    <title>Hello i'm Shivshankar Pandey </title>
     <style>
         body {
             background: linear-gradient(to bottom, #FFD700, #FFA500);
